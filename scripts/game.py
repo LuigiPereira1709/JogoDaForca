@@ -1,5 +1,5 @@
 # Importa a classe Word do módulo word_generator
-from scripts.word_generator import Word
+from word_generator import Word
 
 # Arquivo game.py
 class Jogo:
