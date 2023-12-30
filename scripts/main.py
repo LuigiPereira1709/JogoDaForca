@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox, simpledialog
 from game import Jogo
 from player import Jogador
-from scripts.word_generator import Word
+from word_generator import Word
 
 class JogoInterface:
     def __init__(self, root):
