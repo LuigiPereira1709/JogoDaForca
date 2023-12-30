@@ -15,5 +15,5 @@ class Jogador:
 
     def playeratribute(self, level):
         # Define o número de vidas com base no nível de dificuldade
-        playerlife = 8 if level == '1' else (5 if level == '2' else 3)
+        playerlife = 5 if level == '1' else (5 if level == '2' else 10)
         self.life = playerlife
