@@ -31,6 +31,7 @@ Este projeto teve como intuito colocar em prática conhecimentos sobre:
   - `player.py`: Implementação da classe Jogador.
   - `word_generator.py`: Implementação da classe Word para gerar palavras com base no tema e dificuldade.
   - `main.py`: Script principal para executar o jogo usando a interface gráfica Tkinter.
+- `JogoDaForca`: Arquivo .exe do jogo
 - `requirements.txt`: Arquivo contendo as bibliotecas necessárias. Pode ser gerado usando o comando:
   ```bash
   pip freeze > requirements.txt
