@@ -1,4 +1,3 @@
-# player.py
 class Jogador:
     def __init__(self):
         # Atributos do jogador
