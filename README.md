@@ -1,6 +1,6 @@
 # Jogo da Forca - Projeto de Data Science Academy
 
-Bem-vindo ao Jogo da Forca, um projeto desenvolvido como parte do curso de Data Science Academy.
+Bem-vindo ao Jogo da Forca, um projeto desenvolvido como parte do curso de Python para Análise de Dados da Data Science Academy.
 
 ## Descrição do Projeto
 
