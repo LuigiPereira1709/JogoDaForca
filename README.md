@@ -41,7 +41,7 @@ Certifique-se de ter os requisitos instalados e execute o script main.py.
   python main.py
 ```
 ## Download do Executável
-Você pode baixar o executável do jogo diretamente [aqui](JogoDaForca.exe).
+Você pode baixar o executável do jogo diretamente [aqui](JogoDaForca.exe), aperte as teclas de atalho `ctrl + shift + s` para fazer o download.
 ## Autor
 Luigi Pereira
 ## Licença
