@@ -39,7 +39,9 @@ Este projeto teve como intuito colocar em prática conhecimentos sobre:
 Certifique-se de ter os requisitos instalados e execute o script main.py.
 ```bash
   python main.py
-```  
+```
+## Download do Executável
+Você pode baixar o executável do jogo diretamente [aqui](JogoDaForca.exe).
 ## Autor
 Luigi Pereira
 ## Licença
