@@ -1,4 +1,3 @@
-# word_generator.py
 from json import load
 from unidecode import unidecode
 from random import choice
