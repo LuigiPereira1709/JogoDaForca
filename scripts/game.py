@@ -1,7 +1,6 @@
 # Importa a classe Word do módulo word_generator
 from word_generator import Word
 
-# Arquivo game.py
 class Jogo:
     def __init__(self, dificuldade, jogador, palavra):
         # Atributos iniciais do jogo
